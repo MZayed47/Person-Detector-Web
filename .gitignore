@@ -1,0 +1,7 @@
+/checkpoints
+/data/video
+*.avi
+*.mp4
+*.weights
+.vscode
+.vs
